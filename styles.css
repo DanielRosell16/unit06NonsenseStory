@@ -1,0 +1,51 @@
+
+body header {
+    background-image: url("/gallery/qhxIu1bYe2ci1cwelc.jpeg");
+}
+
+header h1 {
+    color: darkturquoise;
+    padding-left: 10px;
+}
+
+header h2 {
+    color: darkturquoise;
+    padding-left: 10px;
+}
+
+
+h1 {
+	padding-top: 10px;
+	color: skyblue;
+}
+h2 {
+	padding-bottom: 10px;
+	color: skyblue;
+}
+h3 {
+	padding-left: 10px;
+}
+p {
+	padding-left: 40px;
+}
+
+figure {
+    display: flex;
+}
+
+figure div {
+    padding-right: 100px;
+
+}
+
+button {
+	margin: 0 auto;
+	padding-bottom: 5px;
+}
+footer {
+	background-color: skyblue;
+	color: black;
+	border: 2px solid grey;
+	padding: .5em .5em;
+	text-align: center;
+}
